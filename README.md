@@ -1,4 +1,4 @@
-18-year-old self-taught programmer from Finland. Interested in game hacking and security.
+18-year-old self-taught programmer from Finland.
 
 I know C++ and some Python.
 
