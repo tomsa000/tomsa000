@@ -1,4 +1,4 @@
-18-year-old self-taught programmer from Finland.
+19-year-old self-taught programmer from Finland.
 
 I know C++, some Python and C#.
 
